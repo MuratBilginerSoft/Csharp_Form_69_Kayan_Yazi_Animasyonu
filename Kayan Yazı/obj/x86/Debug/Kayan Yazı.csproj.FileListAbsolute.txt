@@ -1,0 +1,21 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan_Yazı.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan_Yazı.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan Yazı.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan Yazı.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan Yazı.pdb
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan Yazı.exe
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan Yazı.pdb
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.exe
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\bin\Debug\Kayan Yazı.pdb
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan_Yazı.Form1.resources
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan_Yazı.Properties.Resources.resources
+C:\Users\murat\Desktop\22 Kodbank C# Görsel Programlama 22 Kayan Yazı Animasyonu\Kayan Yazı\Kayan Yazı\obj\x86\Debug\Kayan Yazı.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\obj\x86\Debug\Kayan Yazı.exe
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\obj\x86\Debug\Kayan Yazı.pdb
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\bin\Debug\Kayan Yazı.exe
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\bin\Debug\Kayan Yazı.pdb
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\obj\x86\Debug\Kayan_Yazı.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\obj\x86\Debug\Kayan_Yazı.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\34 Kayan Yazı Animasyonu V1.0\Kayan Yazı\obj\x86\Debug\Kayan Yazı.csproj.GenerateResource.Cache
